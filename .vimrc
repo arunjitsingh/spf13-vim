@@ -74,7 +74,7 @@
 	set showmode                   	" display the current mode
 
 	set cursorline  				" highlight current line
-	hi cursorline guibg=#333333 	" highlight bg color of current line
+	hi CursorLine guibg=#333333 	" highlight bg color of current line
 	hi CursorColumn guibg=#333333   " highlight cursor
 
 	if has('cmdline_info')
@@ -114,7 +114,7 @@
 	set foldenable  				" auto fold code
 	set gdefault					" the /g flag on :s substitutions by default
     set list
-    set listchars=tab:>.,trail:.,extends:#,nbsp:. " Highlight problematic whitespace
+    set listchars=tab:▸\ ,trail:.,eol:¬ " Highlight problematic whitespace
 
 
 " }
