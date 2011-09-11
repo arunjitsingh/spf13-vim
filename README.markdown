@@ -1,3 +1,6 @@
+##My fork of Steve Francia's Vim Distribution
+I'm not the biggest fan of Vim, but recently have the need to have a terminal-only editor (SSH and stuff). This fork is for a few edits I might want to make to the configs..
+
 # spf13-vim : Steve Francia's Vim Distribution
 
 This is a distribution of vim plugins and tools intended to be run on top of VIM.  It is a good starting point for anyone intending to use VIM for development. 
